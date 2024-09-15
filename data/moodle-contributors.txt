@@ -157,6 +157,7 @@ Brown
 Bruce
 Bruno
 Bruton
+Bruyen
 Bryan
 Buecker
 Bukhari
@@ -1499,6 +1500,7 @@ viettruongq
 villate
 vinhle
 vinkmar
+vlad.kidanov
 vpisabeywardana
 vthung
 vtos
