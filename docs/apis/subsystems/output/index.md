@@ -116,9 +116,9 @@ In the code above, we created a renderable. This is a class that you have to add
 
 namespace tool_demo\output;
 
-use renderable
-use renderer_base
-use templatable
+use renderable;
+use renderer_base;
+use templatable;
 use stdClass;
 
 class index_page implements renderable, templatable {
